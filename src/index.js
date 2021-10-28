@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import CopyCatContainer from './containers/CopyCatContainer';
+import { CopyCatContainer } from './containers/CopyCatContainer';
 import reportWebVitals from './reportWebVitals';
 import './index.css';
 
